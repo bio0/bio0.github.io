@@ -7,7 +7,7 @@ categories: 生活
 <!---
 Mori Point Loop Trail
 -->
-此次故地重游Mori Point，但是选择了一条moderate的trail。因为有了地图，也就有了挑战的底气。特别是之前的几次moderate走得还算顺利，也增加了我的信心。
+此次故地重游M. P.，但是选择了一条moderate的trail。因为有了地图，也就有了挑战的底气。特别是之前的几次moderate走得还算顺利，也增加了我的信心。
 
 此处插句题外话，感觉至少需要moderate的trail才能够锻炼以及让身体累到。
 
