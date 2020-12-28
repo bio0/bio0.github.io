@@ -18,3 +18,5 @@ SF Botanical Garden
 说到结构，本来安排也还算合适，可惜与对面的日本园林一比较便变得逊色起来。
 
 总之，这次草草收场，略显遗憾。
+
+找一个Garden好的list：https://archive.curbed.com/2017/6/9/15764274/botanical-gardens-best-united-states
