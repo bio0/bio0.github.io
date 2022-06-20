@@ -29,6 +29,7 @@ description: > # this means to ignore newlines until "Language & timezone"
 ##############################
 lang: # the language of your site, default as "en"
 timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for the available values
+url: https://bio0.github.io/
 
 
 ## => Author and Social
