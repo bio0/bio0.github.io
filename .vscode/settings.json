@@ -1,0 +1,6 @@
+{
+    "foam.openDailyNote.directory": "_posts/journal/2022",
+    "foam.openDailyNote.filenameFormat": "yyyy-mm-dd-'daily-note'",
+    "foam.openDailyNote.fileExtension": "md",
+    "foam.openDailyNote.titleFormat": "'Journal Entry, ' dddd, mmmm d",
+}
