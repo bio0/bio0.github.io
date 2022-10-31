@@ -1,8 +1,8 @@
 ---
 title: Introduction To Negotiation - Summary
 date: 2022-10-30 16:32:25
-tags: [日记]
-categories: 人生
+tags: [negotiation, communication, business]
+categories: business
 ---
 今天学完了Introduction To Negotiation。做了所有的Negotiation的练习。
 这里是课程提供的summary
