@@ -1,7 +1,7 @@
 ---
 title: 学会context switch
 date: 2016-05-17 19:56:18
-tags: [生活，research]
+tags: [生活, research]
 categories: 生活
 ---
 昨晚尝试context switch，感觉不错。
