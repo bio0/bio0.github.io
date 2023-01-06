@@ -1,8 +1,8 @@
 ---
 title: Better at Getting Better with Deliberate Practice
 date: 2022-12-11 11:54:47
-tags: [日记]
-categories: 人生
+tags: [learn]
+categories: learn
 ---
 # "Practice, Practice, Practice" is not correct
 This is a note of what I learnt from the course Good with Words.
