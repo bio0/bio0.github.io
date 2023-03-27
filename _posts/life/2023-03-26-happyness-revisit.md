@@ -34,7 +34,7 @@ To experience, to learn.
 
 To experience different aspects of the world and as a human.
 
-To learn the knowledge and skills, especially useful knowledge and skills. Knowledge and skills that is useful for others, knowledge and skills which I can help SOME others, influence others.
+To learn the knowledge and skills with which I can help SOME others, influence others.
 
 # Social Network
 social network is like the junk food of social life. 
