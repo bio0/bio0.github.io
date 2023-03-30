@@ -36,6 +36,8 @@ To experience different aspects of the world and as a human.
 
 To learn the knowledge and skills with which I can help SOME others, influence others.
 
+今天有个朋友跟我说，ta想的是先趁着还很火的时候多捞钱。等到不火的时候可能要downgrade到类似FDA NIH这种的工作。但是没有说现在还往回去找的。
+
 # Social Network
 social network is like the junk food of social life. 
 Spending time on social network is like eating chips. 
