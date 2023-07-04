@@ -1,5 +1,5 @@
 ---
-title: Writing and Editing: Word Choice and Word Order
+title: Writing and Editing - Word Choice and Word Order
 date: 2022-10-30 19:25:03
 tags: [writing, business]
 categories: business
