@@ -1,6 +1,6 @@
 ---
 title: Learn Writing with ChatGPT
-date: 2023-17-04 11:20:03
+date: 2023-07-04 11:20:03
 tags: [writing, business]
 categories: business
 ---
