@@ -1,8 +1,9 @@
 ---
+layout: post
 title: Deliver under pressure
 date: 2025-02-03 22:25:18
 tags: [project management]
-categories: business
+categories: [business]
 ---
 In most recent projects, we need to deliver under tight timeline. What I found useful:
 
