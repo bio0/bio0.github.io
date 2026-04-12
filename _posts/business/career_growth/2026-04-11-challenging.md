@@ -9,7 +9,7 @@ Following a discussion with my director, I have summarized the key takeaways for
 
 # Communicate Up
 
-While my written communication is strong, there is a clear need to improve vocal communication and the consistency of updates.
+While my written communication is good, it still needs improvement, and there is a clear need to address the gap in vocal communication and the consistency of updates.
 
 *   **Improve Vocal Communication:**
     *   Focus on better organizing thoughts before speaking.
